@@ -1,1 +1,4 @@
-"CA.PAR: Last WEEKLY DOJI found at timestamp: 2020-06-19","DG.PAR: Last WEEKLY DOJI found at timestamp: 2020-06-24","EDF.PAR: Last WEEKLY DOJI found at timestamp: 2020-06-19","EL.PAR: Last WEEKLY DOJI found at timestamp: 2020-06-24","FP.PAR: Last WEEKLY DOJI found at timestamp: 2020-06-24","MC.PAR: Last WEEKLY DOJI found at timestamp: 2020-06-24","RI.PAR: Last WEEKLY DOJI found at timestamp: 2020-06-19","RMS.PAR: Last WEEKLY DOJI found at timestamp: 2020-06-24","VIE.PAR: Last WEEKLY DOJI found at timestamp: 2020-06-24"
+"STOCK","DOJI_DATE","HINT"
+"Carrefour","2020-06-19","buy over 15.50"
+"Electricite de France","2020-06-19","-"
+"Hermes Int.","2020-06-24","wait for buy signal"
